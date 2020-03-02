@@ -7,3 +7,7 @@ Problem:
     2> GlobalConfiguration - This class contains all the data structures that is going to be used.
     3> Scheduler - Thread which is going to be executed(run) after every 10 seconds.
     4> CollectorService - Thread which takes the ip address from user and perform ping operation.
+    
+    Example: 
+    192.168.1.1: 100
+    This ip address should be pinged after 100 seconds.
